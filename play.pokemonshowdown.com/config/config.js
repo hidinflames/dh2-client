@@ -1,1 +1,1 @@
-../../config/config.js
+C:\Users\alimt\Downloads\dh2-client\dh2-client\config\config.js
