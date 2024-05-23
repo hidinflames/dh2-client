@@ -1,2 +1,2 @@
 const server_repo = "https://github.com/hidinflames/DH2.git";
-export default server_repo;
+module.exports = server_repo;
